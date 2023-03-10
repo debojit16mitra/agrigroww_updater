@@ -2,7 +2,7 @@
   "latestVersion": "1.2",
   "url": "https://github.com/TutorialsAndroid/AppXUpdater/releases",
   "download_url": "https://github.com/debojit16mitra/AgriGroww/releases/download/v1.0.0/app-release.apk",
-  "update_cancelable": "YES",
+  "update_cancelable": "NO",
   "update_release": "10/03/2023",
   "releaseNotes": "- First evolution,\n- Second evolution,\n- Bug fixes"
 }
